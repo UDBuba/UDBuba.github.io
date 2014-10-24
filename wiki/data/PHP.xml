@@ -1,0 +1,19 @@
+<tree>
+	<treeName></treeName>
+	<nodes>
+		<node>
+			<nodeName></nodeName>
+			<parent></parent>
+			<childen>
+				<child>null</child>
+				<child>null</child>
+			</childen>
+			<content>
+				<title>
+				</title>
+				<body>
+				</body>
+			</content>
+		</node>
+	</nodes>
+</tree>
